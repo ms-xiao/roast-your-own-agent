@@ -1,0 +1,1 @@
+My agent writes a plan, asks me to approve it, then asks me what the plan was.
